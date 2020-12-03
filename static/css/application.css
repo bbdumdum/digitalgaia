@@ -6,6 +6,31 @@
 	font-style: normal;
 }
 
+@font-face {
+    font-family: 'digitalhand1';
+    src: url('/static/fonts/Merienda-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'digitalhand2';
+    src: url('/static/fonts/freebooterscript.ttf');
+}
+
+@font-face {
+    font-family: 'digitalhand3';
+    src: url('/static/fonts/Allura-Regular.otf');
+}
+
+@font-face {
+    font-family: 'digitalhand4';
+    src: url('/static/fonts/DancingScript-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: 'digitalhand5';
+    src: url('/static/fonts/AncientModernTales-a7Po.ttf');
+}
+
 .digitalgaia_title {
     font-family: 'chintzys', sans-serif;
     font-size: 3.0rem;
@@ -26,6 +51,11 @@ a {
 
 a:hover {
     color: #7c7c7c;
+}
+
+#subtext {
+    font-family: digitalhand5;
+    font-size: 2.5rem;
 }
 
 #footer {
