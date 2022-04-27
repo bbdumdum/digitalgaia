@@ -1,0 +1,6 @@
+# Miscellaneous notes
+
+```{toctree}
+
+misc
+```
