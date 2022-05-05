@@ -12,6 +12,7 @@ jobs:
                 env:
                     DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
                 run: echo "$DEPLOY_KEY" > github@deploy
+            - run: chmod 600 github@deploy
 
             #- run: cat github@deploy
 
