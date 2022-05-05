@@ -13,4 +13,8 @@ jobs:
                     DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
                 run: echo "$DEPLOY_KEY" > github@deploy
 
-            - run: cat github@deploy
+            #- run: cat github@deploy
+
+            - run: rsync -a --delete-excluded -e "$SSH_COMMAND" _build/html/ wackou@digitalgaia.net:www/digitalgaia/
+              env:
+                  SSH_COMMAND: "ssh -o StrictHostKeyChecking=no -i github@deploy"
