@@ -19,3 +19,10 @@ see [discussion about password managers](<https://www.reddit.com/r/crypto/commen
 upgrade of critical infrastructure should be done in a meeting with everyone watching.<br>
 
 This shares information about what is done, how it is done, and ensures no one is working during that time.
+
+
+## Usage of pyinfra
+
+in general, we want to store and work only on install scripts (a la ansible or pyinfra) instead of artifacts (docker, etc.). Even though it seems like containers/artifacts give us reproducibility, it introduces a lot of complexity in managing how artifacts are stored, how much they weigh, etc. Having only install scripts keeps only the high-level logic of the infrastructure, and if it is refined it can be as efficient as artifacts-based deployments (I postulate this, I have no evidence of it)
+
+we should also redeploy most of our servers regularly to make sure the install/backup scripts include everything
