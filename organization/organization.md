@@ -1,32 +1,19 @@
 # Organization
 
-Resources for chief technology officers, with the emphasis on startups:
+## General organization concepts
 
-- [https://github.com/kuchin/awesome-cto](<https://github.com/kuchin/awesome-cto>) / [[reddit](<https://news.ycombinator.com/item?id=26284750>)]
-- esp. check: [https://cdn.akamai.steamstatic.com/apps/valve/Valve\_NewEmployeeHandbook.pdf](<https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf>)
+- [Resources for chief technology officers, with the emphasis on startups](https://github.com/kuchin/awesome-cto) / [[reddit](https://news.ycombinator.com/item?id=26284750)]
 
-<!-- -->
+- Company handbooks:
+  - [Valve](https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
+  - [GitLab](https://about.gitlab.com/handbook/) [[HN](https://news.ycombinator.com/item?id=31270407)]
 
+- [Building Self-Managed Teams: A Case Study from Riot Games](https://codingsans.com/blog/self-managed-teams)
+  [[reddit](<https://news.ycombinator.com/item?id=27207107>)]
 
+- [Open Decision-Making](https://web.stanford.edu/\~ouster/cgi-bin/decisions.php)  (by John Ousterhout)
 
-Building Self-Managed Teams: A Case Study from Riot Games
-
-- [https://codingsans.com/blog/self-managed-teams](<https://codingsans.com/blog/self-managed-teams>) / [[reddit](<https://news.ycombinator.com/item?id=27207107>)]
-
-<!-- -->
-
-
-
-Open Decision-Making
-
-- [https://web.stanford.edu/\~ouster/cgi-bin/decisions.php](<https://web.stanford.edu/~ouster/cgi-bin/decisions.php>) (by John Ousterhout)
-
-<!-- -->
-
-
-
-[My key takeaways from The Pragmatic Programmer](<https://arkadiuszchmura.com/posts/my-key-takeaways-from-the-pragmatic-programmer/>)
-
+- [My key takeaways from The Pragmatic Programmer](https://arkadiuszchmura.com/posts/my-key-takeaways-from-the-pragmatic-programmer/)
 
 
 ## Meetings
