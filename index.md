@@ -1,6 +1,12 @@
 
 # Welcome to DigitalGaia's documentation!
 
+```{admonition} Work in progress...
+:class: caution
+
+The following website is a work-in-progress, and as such, no information is to
+be taken as final or definitive.
+```
 
 ```{toctree}
 :maxdepth: 3
