@@ -18,7 +18,7 @@ should already have the brainstorming sessions every week. Need to find a way to
 
 possibility to start half-time if it makes a transition smoother<br>
 
-### 2\. Project(s) inception
+### 2. Project(s) inception
 
 2 years of project definition
 
@@ -28,14 +28,15 @@ they should be encouraged to be lead in at least 1 project, but this is not requ
 
 
 
-### 3\. Project maturity
+### 3. Project maturity
 
 - 2 years of production / project maturity<br>
 
 money should start coming in this time, if appreciation of crypto assets didn't extend that period
-- business model: software licensing (GPL), consulting, possibly trading and/or management of crypto-assets or other investments in spinoffs
+- business model: software licensing (GPL), consulting (e.g.: [SourceHut consultancy][srht]), possibly trading and/or management of crypto-assets or other investments in spinoffs
 
-<!-- -->
+[srht]: https://sourcehut.org/consultancy/
+
 
 ## Imagery
 
@@ -52,3 +53,8 @@ If the project structure and organization is precisely defined, it should be pos
 We generally start a project together at some point, and learn how to work together along the way. As the project quickly grows, there are more priorities and learning how to work together takes the back seat, usually in the form of tickets at the end of a very long backlog… There is always something else to do, and the perceived benefits (slightly less friction in communication/organization) don't weigh much, even though it would be beneficial long-term.
 
 I stipulate that there is virtue and eventual efficiency in first learning how to work together, but without starting to work on the main project directly. This way we don't introduce technical debt at the very beginning of the main project, but rather on toy projects that we use to “sharpen our knives”. This allows to efficiently setup the organization in a “light” way, as there is nothing at stake. Mistakes at this stage are a good way to learn more! But the real value is that after that the main workflow of most people is done in a very fluid way allowing people to focus on “what” they need to do, not “how” they need to do it. They are now ready to work and focus on a main project that they will be able to work on in a “proper” way.
+
+
+## History
+
+Crystallization of DigitalGaia concept as a collective dates from 2020-12-13

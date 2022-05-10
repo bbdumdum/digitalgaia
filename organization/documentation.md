@@ -18,6 +18,7 @@ investigate following tools:
 - [https://js.wiki/](<https://js.wiki/>) (possibly check TiddlyWiki too)
 - [https://www.docsy.dev](<https://www.docsy.dev>)
 - use sphinx? something like docusaurus? ([https://news.ycombinator.com/item?id=27132485](<https://news.ycombinator.com/item?id=27132485>)) (nice [sphinx theme](<https://github.com/pradyunsg/furo>) / other [sphinx theme](<https://www.reddit.com/r/Python/comments/sxtp7h/new_sphinx_theme/>))
+- [MkDocs](https://www.mkdocs.org) with [material](https://squidfunk.github.io/mkdocs-material/) theme
 - Static Sites with Sphinx and Markdown: [https://us.pycon.org/2021/schedule/presentation/87/](<https://us.pycon.org/2021/schedule/presentation/87/>) ([video](<https://www.youtube.com/watch?v=YclYtM56qjo&list=PL2Uw4_HvXqvYk1Y5P8kryoyd83L_0Uk5K&index=40>)) / [https://myst-parser.readthedocs.io/](<https://myst-parser.readthedocs.io/>),
 - [Static Sites With Sphinx and Markdown](https://www.jetbrains.com/pycharm/guide/tutorials/sphinx_sites/) (great tuto by jetbrains)
 - [https://rust-lang.github.io/mdBook/](<https://rust-lang.github.io/mdBook/>)

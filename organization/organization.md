@@ -2,7 +2,7 @@
 
 ## General organization concepts
 
-- [Resources for chief technology officers, with the emphasis on startups](https://github.com/kuchin/awesome-cto) / [[reddit](https://news.ycombinator.com/item?id=26284750)]
+- [Resources for chief technology officers, with the emphasis on startups](https://github.com/kuchin/awesome-cto) [[reddit](https://news.ycombinator.com/item?id=26284750)]
 
 - Company handbooks:
   - [Valve](https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)

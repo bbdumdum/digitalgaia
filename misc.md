@@ -32,6 +32,19 @@ apparently good tool to split/merge/rebase commits: [https://gitup.co/](<https:/
 [Test Like You Fly - Intro](<https://hint.io/blog/test-like-you-fly-1>) ([Reddit thread](<https://www.reddit.com/r/programming/comments/ok5rvs/test_like_you_fly_originated_in_the_aerospace/>))
 
 
+# Toy projects / ideas list
+
+- zelda-style adventure game
+- 8bit sampler / sfx gen
+  example: [WASM synth](https://timdaub.github.io/2020/02/19/wasm-synth/#f1) [[HN](https://news.ycombinator.com/item?id=27276400)]
+
+- lightweight nfo viewer in rust/qt  (cp437 font?)
+
+- [gameboy emulator][gbemu] (in C++/Rust/Python/GO) [[reddit](https://www.reddit.com/r/programming/comments/q4315n/rosettaboy_the_same_gameboy_emulator_in_rust/)]
+
+[gbemu]: https://github.com/shish/rosettaboy
+
+
 
 # Random thoughts about the concept
 
