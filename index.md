@@ -33,5 +33,5 @@ organization/legal
 ```{toctree}
 :caption: Misc
 
-misc_index
+misc
 ```

@@ -9,6 +9,8 @@ there should be official documentation for projects, but also wiki-style unstruc
 there is also a handbook for the collective, containing amongst other the digitalgaia manifesto
 
 we could have, say, 1 week / year where we stop all activity and only review, update and fix documentation of all products / internal infrastructure (kind of a spring cleaning week).
+documentation that is not needed anymore to support the current functioning of the collective should be archived at the end of the year.
+
 
 ## Possible tools for documentation
 
@@ -23,16 +25,11 @@ investigate following tools:
 - [Static Sites With Sphinx and Markdown](https://www.jetbrains.com/pycharm/guide/tutorials/sphinx_sites/) (great tuto by jetbrains)
 - [https://rust-lang.github.io/mdBook/](<https://rust-lang.github.io/mdBook/>)
 
-<!-- -->
-
 
 
 ## How to write good documentation
 
 [http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/](<http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/>)
 
-Google Technical Writing Courses<br>
 
-[https://developers.google.com/tech-writing](<https://developers.google.com/tech-writing>)<br>
-
-[https://www.reddit.com/r/programming/comments/nf1hs1/google\_course\_technical\_writing\_for\_software/](<https://www.reddit.com/r/programming/comments/nf1hs1/google_course_technical_writing_for_software/>)
+[Google Technical Writing Courses](<https://developers.google.com/tech-writing>) [[reddit](<https://www.reddit.com/r/programming/comments/nf1hs1/google_course_technical_writing_for_software/>)]

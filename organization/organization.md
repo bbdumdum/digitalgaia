@@ -53,3 +53,5 @@ rst template should be provided containing required sections (eg: NABC, etc. see
 check Linear's method for issue tracking: [https://linear.app/method](<https://linear.app/method>)
 
 code review should be a daily task, and we may need to dedicate up to 20% of a day to it. About code review processes and how to make it better/easier: [code review decision fatigue](<https://tylercipriani.com/blog/2022/03/12/code-review-procrastination-and-clarity/>) ([HN](<https://news.ycombinator.com/item?id=30665319>))
+
+[Quick fixes to your code review workflow](https://consulting.drmaciver.com/code-review-quick-fixes/) [[HN](https://news.ycombinator.com/item?id=31447080)]

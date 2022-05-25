@@ -1,19 +1,18 @@
 
 # About systems thinking
 
-[https://thesystemsthinker.com/a-lifetime-of-systems-thinking/](<https://thesystemsthinker.com/a-lifetime-of-systems-thinking/>)
+[A Lifetime of Systems Thinking](<https://thesystemsthinker.com/a-lifetime-of-systems-thinking/>)
+[[HN](<https://news.ycombinator.com/item?id=27412750>)]
 
-[https://news.ycombinator.com/item?id=27412750](<https://news.ycombinator.com/item?id=27412750>)
+VSM, Stafford Beer, cybernetics in general
+[[wikipedia](<https://en.wikipedia.org/wiki/Viable_system_model>)]
 
-VSM, Stafford Beer, cybernetics in general: [https://en.wikipedia.org/wiki/Viable\_system\_model](<https://en.wikipedia.org/wiki/Viable_system_model>)
 
-The WOPRS Organization Model:<br>
+[The WOPRS Organization Model](<https://jpreston.xyz/woprs-organization-model.html>)
+[[HN](<https://news.ycombinator.com/item?id=28536432>)]
 
-[https://jpreston.xyz/woprs-organization-model.html](<https://jpreston.xyz/woprs-organization-model.html>) ([HN comments](<https://news.ycombinator.com/item?id=28536432>))
-
-The skill of org design:<br>
-
-[https://commoncog.com/blog/org-design-skill/](<https://commoncog.com/blog/org-design-skill/>) ([HN comments](<https://news.ycombinator.com/item?id=28772033>))<br>
+[The skill of org design](<https://commoncog.com/blog/org-design-skill/>)
+[[HN](<https://news.ycombinator.com/item?id=28772033>)]
 
 
 
@@ -53,3 +52,5 @@ Technology is often being touted as antithetical to nature; inorganic vs organic
 We believe it doesn’t have to be so
 
 Digital gaia: a technology and nature symbiosis project
+
+Relation to solarpunk?

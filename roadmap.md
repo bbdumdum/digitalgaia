@@ -40,11 +40,15 @@ money should start coming in this time, if appreciation of crypto assets didn't 
 
 ## Imagery
 
+<img src="_static/gaia_tree.svg" alt="gaia_tree" width="50%" />
+
 In the digitalgaia tree logo, we can see 5 roots joining together (learning phase) and growing together for a first period of time to set solid bases (the trunk). This corresponds to the project inception. After that, each main branch is free to fork into its own directions and split at its own will, growing branches and leaves, in order to cover more areas of knowledge.
 
 Each branch covers a certain expertise, and together we collectively cover a much bigger area of knowledge/expertise.
 
-    An important point is that the branches need to be able to grow freely, so that the organization grows organically. A centralized organization (typical startup) would try to push everyone in the same direction, but that would be detrimental, the same as if a tree would grow all its branches in the same direction. This way, each participant has the freedom to recognize the opportunities around him and take initiative on them, without bureaucracy associated with that. If at some point there is the need for more manpower on a certain project this can always be subcontracted.
+```{important}
+An important point is that the branches need to be able to grow freely, so that the organization grows organically. A centralized organization (typical startup) would try to push everyone in the same direction, but that would be detrimental, the same as if a tree would grow all its branches in the same direction. This way, each participant has the freedom to recognize the opportunities around him and take initiative on them, without bureaucracy associated with that. If at some point there is the need for more manpower on a certain project this can always be subcontracted.
+```
 
 
 

@@ -14,7 +14,7 @@ see [discussion about password managers](<https://www.reddit.com/r/crypto/commen
 - CI (?)
 - sysadmin/devops (pyinfra) (see also network topologies (tailscale etc.) in hacking.org > netsec)
 
-<!-- -->
+investigate [Radicle](https://radicle.xyz/blog/towards-decentralized-code-collaboration.html) for source code hosting and bug-tracking
 
 upgrade of critical infrastructure should be done in a meeting with everyone watching.<br>
 
