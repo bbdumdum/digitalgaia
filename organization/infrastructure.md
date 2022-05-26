@@ -3,7 +3,7 @@
 Linear workspace: [https://linear.app/digitalgaia/](<https://linear.app/digitalgaia/>)
 
 research for which internal tools to use should be made as RFC/decision style document:
-(see: )
+(see: [Tools](../tools.md) for more info)
 
 - password manager (bitwarden)
 - communication (matrix, element, zulip)

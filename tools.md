@@ -61,14 +61,18 @@ ZFS](https://github.com/kimono-koans/httm)
 [OpenSSH configuration
 directives](https://infosec.mozilla.org/guidelines/openssh) from Mozilla
 
+## HTTP / Nginx
+
 [Nginx Cheatsheet](https://vishnu.hashnode.dev/nginx-cheatsheet)
 \[[reddit](https://www.reddit.com/r/programming/comments/mt8mrn/nginx_cheatsheet/)\]
 
-<https://ssl-config.mozilla.org/>
+Mozilla [SSL Configuration Generator](https://ssl-config.mozilla.org/)
 
 [Common Nginx misconfigurations that leave your web server open to
 attack](https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/)
 \[[HN](https://news.ycombinator.com/item?id=26259955)\]
+
+## System hardening
 
 [Linux Hardening
 Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
