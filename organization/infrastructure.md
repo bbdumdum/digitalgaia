@@ -3,10 +3,9 @@
 Linear workspace: [https://linear.app/digitalgaia/](<https://linear.app/digitalgaia/>)
 
 research for which internal tools to use should be made as RFC/decision style document:
+(see: )
 
-- password manager (bitwarden, see also: [https://bitwarden.com/products/send/](<https://bitwarden.com/products/send/>))<br>
-
-see [discussion about password managers](<https://www.reddit.com/r/crypto/comments/nt7g1u/password_managers/>), [turning off auto-fill for pw managers](<https://reddit.com/r/netsec/comments/ommw21/you_should_turn_off_autofill_in_your_password/>)
+- password manager (bitwarden)
 - communication (matrix, element, zulip)
 - file sharing (tresorit, syncthing?)
 - bug tracking (linear)
@@ -15,6 +14,8 @@ see [discussion about password managers](<https://www.reddit.com/r/crypto/commen
 - sysadmin/devops (pyinfra) (see also network topologies (tailscale etc.) in hacking.org > netsec)
 
 investigate [Radicle](https://radicle.xyz/blog/towards-decentralized-code-collaboration.html) for source code hosting and bug-tracking
+
+## Infrastructure maintenance
 
 upgrade of critical infrastructure should be done in a meeting with everyone watching.<br>
 

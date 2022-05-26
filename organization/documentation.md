@@ -6,6 +6,21 @@ a near wiki-like experience can be achieved with sphinx doc being built and push
 
 there should be official documentation for projects, but also wiki-style unstructured general documentation, links to to interesting articles, thoughts for possible different designs or new features, ideas for governance, etc.
 
+```{note}
+links stored in notes.org or programming.org should be stored as part of a knowledge-base for digitalgaia (sort of wiki, but not of documentation, but links on interesting piece of knowledge). kind of what the www was like at the beginning, a inter-linked hypertext system
+
+name: knowledge-tree(?)
+
+there can be some prose explaining/describing the various links, but it should be mostly links
+this represents the “what do we know” (knowledge)
+
+one main section (or another KB) could be devoted to tools being used and articles about them. This represents the “how we do things” (craft)
+
+another section could be about motivation / philosophy / beliefs. This represents the “why we do things” (spirit)
+
+the first phase in the DG process (1st year) is here to build our knowledge and to refine our craft
+```
+
 there is also a handbook for the collective, containing amongst other the digitalgaia manifesto
 
 we could have, say, 1 week / year where we stop all activity and only review, update and fix documentation of all products / internal infrastructure (kind of a spring cleaning week).
