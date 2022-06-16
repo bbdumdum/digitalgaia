@@ -17,7 +17,7 @@ manifesto
 roadmap
 ```
 
-----
+<br/>
 
 ```{toctree}
 :caption: Organization
@@ -29,7 +29,7 @@ organization/documentation
 organization/legal
 ```
 
-----
+<br/>
 
 ```{toctree}
 :caption: Tools
@@ -37,7 +37,7 @@ organization/legal
 tools
 ```
 
-----
+<br/>
 
 ```{toctree}
 :caption: Misc

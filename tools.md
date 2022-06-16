@@ -49,6 +49,13 @@ Guide](https://spin.atomicobject.com/2013/11/24/secure-gpg-keys-guide/)
 [meson](https://mesonbuild.com/), the new kid on the block, clean and
 efficient
 
+## Editors
+
+[VSCodium](https://vscodium.com/), open-source binary of VSCode [[HN](https://news.ycombinator.com/item?id=31604932)]
+
+[Helix](https://helix-editor.com/), a modern terminal editor
+
+
 # Sysadmin
 
 [Cockpit Project](https://cockpit-project.org/)

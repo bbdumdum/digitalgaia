@@ -15,6 +15,12 @@
 
 - [My key takeaways from The Pragmatic Programmer](https://arkadiuszchmura.com/posts/my-key-takeaways-from-the-pragmatic-programmer/)
 
+- book on how to run a successful free software project: [Producing Open Source Software](https://producingoss.com/)
+
+- [High performance individuals and teams](https://pablasso.com/high-performance-individuals-and-teams/) [[HN](https://news.ycombinator.com/item?id=31532878)]
+
+
+
 
 ## Meetings
 
@@ -42,15 +48,15 @@ anything goes as to what can be talked about, people are also encouraged to talk
 
 ## Standard Operating Procedures
 
-improvements to software should be made using RFC-style proposals (or BIP, EIP, etc., eg: [https://github.com/fioprotocol/fips](<https://github.com/fioprotocol/fips>))<br>
+improvements to software should be made using RFC-style proposals (or BIP, EIP, etc., eg: [https://github.com/fioprotocol/fips](https://github.com/fioprotocol/fips))
 
-[https://candost.blog/how-to-stop-endless-discussions/](<https://candost.blog/how-to-stop-endless-discussions/>)<br>
-
-[https://news.ycombinator.com/item?id=25622149](<https://news.ycombinator.com/item?id=25622149>)<br>
+[How to Stop Endless Discussions](<https://candost.blog/how-to-stop-endless-discussions/>) [[HN](https://news.ycombinator.com/item?id=25622149)]
 
 rst template should be provided containing required sections (eg: NABC, etc. see HN comments, for instance also rename "competitors" to "alternatives")
 
-check Linear's method for issue tracking: [https://linear.app/method](<https://linear.app/method>)
+[Documenting Design Decisions using RFCs and ADRs](https://brunoscheufler.com/blog/2020-07-04-documenting-design-decisions-using-rfcs-and-adrs) [[HN](https://news.ycombinator.com/item?id=31557835)]
+
+check Linear's [method](https://linear.app/method) for issue tracking
 
 code review should be a daily task, and we may need to dedicate up to 20% of a day to it. About code review processes and how to make it better/easier: [code review decision fatigue](<https://tylercipriani.com/blog/2022/03/12/code-review-procrastination-and-clarity/>) ([HN](<https://news.ycombinator.com/item?id=30665319>))
 
