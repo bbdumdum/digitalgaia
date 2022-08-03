@@ -60,4 +60,6 @@ check Linear's [method](https://linear.app/method) for issue tracking
 
 code review should be a daily task, and we may need to dedicate up to 20% of a day to it. About code review processes and how to make it better/easier: [code review decision fatigue](<https://tylercipriani.com/blog/2022/03/12/code-review-procrastination-and-clarity/>) ([HN](<https://news.ycombinator.com/item?id=30665319>))
 
+[The best modern code review tools (2022)](https://medium.com/codeapprove/the-best-modern-code-review-tools-2022-468b51751fa) [[reddit](https://www.reddit.com/r/programming/comments/w54zl7/the_best_modern_code_review_tools_2022/)]
+
 [Quick fixes to your code review workflow](https://consulting.drmaciver.com/code-review-quick-fixes/) [[HN](https://news.ycombinator.com/item?id=31447080)]

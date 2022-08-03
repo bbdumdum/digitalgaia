@@ -15,6 +15,15 @@ VSM, Stafford Beer, cybernetics in general
 [[HN](<https://news.ycombinator.com/item?id=28772033>)]
 
 
+# Productivity / bad influence of news reading on focus
+
+[How I regained concentration and focus](https://www.innoq.com/en/blog/wie-ich-meine-konzentration-wiederfand/)
+[[HN](https://news.ycombinator.com/item?id=32304456)]
+
+[I hate the news](http://www.aaronsw.com/weblog/hatethenews) (Aaron Swartz)
+
+[Productivity Porn](https://calebschoepp.com/blog/2022/productivity-porn/)
+[[HN](https://news.ycombinator.com/item?id=32335165)]
 
 # Git workflows
 
@@ -30,6 +39,8 @@ apparently good tool to split/merge/rebase commits: [https://gitup.co/](<https:/
 
 [Test Like You Fly - Intro](<https://hint.io/blog/test-like-you-fly-1>) ([Reddit thread](<https://www.reddit.com/r/programming/comments/ok5rvs/test_like_you_fly_originated_in_the_aerospace/>))
 
+
+[Don’t Mock What You Don’t Own](https://hynek.me/articles/what-to-mock-in-5-mins/) [[HN](https://news.ycombinator.com/item?id=31822683)]
 
 # Toy projects / ideas list
 

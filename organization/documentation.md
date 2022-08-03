@@ -48,3 +48,5 @@ investigate following tools:
 
 
 [Google Technical Writing Courses](<https://developers.google.com/tech-writing>) [[reddit](<https://www.reddit.com/r/programming/comments/nf1hs1/google_course_technical_writing_for_software/>)]
+
+Not necessarily documentation, but communication in general: [Writing one sentence per line](https://sive.rs/1s) [[HN](https://news.ycombinator.com/item?id=31808093)]
