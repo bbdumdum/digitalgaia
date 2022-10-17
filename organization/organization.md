@@ -4,6 +4,8 @@
 
 - [Resources for chief technology officers, with the emphasis on startups](https://github.com/kuchin/awesome-cto) [[reddit](https://news.ycombinator.com/item?id=26284750)]
 
+- [Your CTO Should Actually Be Technical](https://blog.southparkcommons.com/your-cto-should-actually-be-technical/) [[HN](https://news.ycombinator.com/item?id=32987094)]
+
 - Company handbooks:
   - [Valve](https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
   - [GitLab](https://about.gitlab.com/handbook/) [[HN](https://news.ycombinator.com/item?id=31270407)]
@@ -19,7 +21,7 @@
 
 - [High performance individuals and teams](https://pablasso.com/high-performance-individuals-and-teams/) [[HN](https://news.ycombinator.com/item?id=31532878)]
 
-
+- [Software and Anarchy](https://applied-langua.ge/software-and-anarchy.pdf) [[HN](https://news.ycombinator.com/item?id=33173364)] - Possibly interesting book (~50 pages) on programming as it relates to "social ecology" and "peer production"
 
 
 ## Meetings

@@ -23,4 +23,7 @@ The following are some fundamental tenets guiding how the DigitalGaia collective
 
 ```{note}
 check also: [Bevy's "manifesto"](https://github.com/bevyengine/bevy/blob/main/CONTRIBUTING.md#what-were-trying-to-build)
+
+and: [A Cypherpunk's Manifesto](https://nakamotoinstitute.org/cypherpunk-manifesto/) (by Eric Hughes)
+more [cypherpunk links](https://news.ycombinator.com/item?id=18690492)
 ```

@@ -14,6 +14,8 @@ name: knowledge-tree(?)
 there can be some prose explaining/describing the various links, but it should be mostly links
 this represents the “what do we know” (knowledge)
 
+the reason we want to have this is so that people don't have to read the news (tech news) all the time. We should also have an outliner view of it (think org-mode), but we could also have a view a la MacOS finder in columns to quickly browse through subsections without having 100s of pages displayed
+
 one main section (or another KB) could be devoted to tools being used and articles about them. This represents the “how we do things” (craft)
 
 another section could be about motivation / philosophy / beliefs. This represents the “why we do things” (spirit)
@@ -40,6 +42,7 @@ investigate following tools:
 - [Static Sites With Sphinx and Markdown](https://www.jetbrains.com/pycharm/guide/tutorials/sphinx_sites/) (great tuto by jetbrains)
 - [https://rust-lang.github.io/mdBook/](<https://rust-lang.github.io/mdBook/>)
 
+converting any doc to a Dash docset: [How I’m a Productive Programmer With a Memory of a Fruit Fly](https://hynek.me/articles/productive-fruit-fly-programmer/) [[HN](https://news.ycombinator.com/item?id=32900164)]
 
 
 ## How to write good documentation

@@ -21,7 +21,7 @@ upgrade of critical infrastructure should be done in a meeting with everyone wat
 
 This shares information about what is done, how it is done, and ensures no one is working during that time.
 
-we should also redeploy most of our servers regularly to make sure the install/backup scripts include everything
+we should also redeploy most of our servers regularly to make sure the install/backup scripts include everything -> even better, we should ensure that we are always able to redeploy the entire infrastructure by just having access to the `servers` repo.
 
 
 ## Usage of pyinfra
