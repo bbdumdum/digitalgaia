@@ -55,6 +55,7 @@ efficient
 
 [Helix](https://helix-editor.com/), a modern terminal editor
 
+[Lapce](https://lapce.dev/) - Lightning-fast and Powerful Code Editor
 
 # Sysadmin
 
