@@ -9,7 +9,7 @@ The following are some fundamental tenets guiding how the DigitalGaia collective
 
   no one is required to work on anything on particular, if people want to team up together they are free to do it though, and can rescind that collaboration whenever
 
-  people choose to do what they want to do with their time (except for some needed coordination stuff)
+  people choose to do what they want to do with their time (except for some needed coordination stuff) (also: [Just for Fun. No, Really.](https://justforfunnoreally.dev/) [[HN](https://news.ycombinator.com/item?id=33255920)]
 
   the idea is that there is more symbiosis when a working structure emerges by itself rather than  being imposed by a central authority, where each participant use their skillset as they most see fit
 

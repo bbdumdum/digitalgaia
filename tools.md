@@ -69,6 +69,8 @@ ZFS](https://github.com/kimono-koans/httm)
 [OpenSSH configuration
 directives](https://infosec.mozilla.org/guidelines/openssh) from Mozilla
 
+[lnav: An advanced log file viewer for the small-scale](https://lnav.org/)
+
 ## HTTP / Nginx
 
 [Nginx Cheatsheet](https://vishnu.hashnode.dev/nginx-cheatsheet)

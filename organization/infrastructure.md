@@ -28,6 +28,8 @@ we should also redeploy most of our servers regularly to make sure the install/b
 
 in general, we want to store and work only on install scripts (a la ansible or pyinfra) instead of artifacts (docker, etc.). Even though it seems like containers/artifacts give us reproducibility, it introduces a lot of complexity in managing how artifacts are stored, how much they weigh, etc. Having only install scripts keeps only the high-level logic of the infrastructure, and if it is refined it can be as efficient as artifacts-based deployments (I postulate this, I have no evidence of it)
 
+see also: [Why not Docker for SourceHut?](https://paste.sr.ht/~sircmpwn/78cc21e1661d5a9d8038f47e532d286807ac89ad)
+
 another important aspect is that we need to ensure the idempotence of each operation in the scripts, this allows
 to rapidly fix a broken deployment step-by-step by fixing on the go the operations that are failing and relaunching
 the entire deploy repeatedly

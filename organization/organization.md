@@ -10,6 +10,8 @@
   - [Valve](https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
   - [GitLab](https://about.gitlab.com/handbook/) [[HN](https://news.ycombinator.com/item?id=31270407)]
 
+- [What I learned at GitLab that I don't want to forget](https://blog.boleary.dev/what-i-learned-at-gitlab-that-i-dont-want-to-forget/) [[HN](https://news.ycombinator.com/item?id=33963614)]
+
 - [Building Self-Managed Teams: A Case Study from Riot Games](https://codingsans.com/blog/self-managed-teams)
   [[reddit](<https://news.ycombinator.com/item?id=27207107>)]
 
@@ -22,6 +24,8 @@
 - [High performance individuals and teams](https://pablasso.com/high-performance-individuals-and-teams/) [[HN](https://news.ycombinator.com/item?id=31532878)]
 
 - [Software and Anarchy](https://applied-langua.ge/software-and-anarchy.pdf) [[HN](https://news.ycombinator.com/item?id=33173364)] - Possibly interesting book (~50 pages) on programming as it relates to "social ecology" and "peer production"
+
+- [Best Books For The Inquisitive Software Engineer](https://gerlacdt.github.io/posts/programming-books/)
 
 
 ## Meetings
@@ -61,6 +65,8 @@ rst template should be provided containing required sections (eg: NABC, etc. see
 check Linear's [method](https://linear.app/method) for issue tracking
 
 code review should be a daily task, and we may need to dedicate up to 20% of a day to it. About code review processes and how to make it better/easier: [code review decision fatigue](<https://tylercipriani.com/blog/2022/03/12/code-review-procrastination-and-clarity/>) ([HN](<https://news.ycombinator.com/item?id=30665319>))
+
+**code review is meant to foster shared ownership of the code instead of one maintainer and various ad-hoc helpers**
 
 [The best modern code review tools (2022)](https://medium.com/codeapprove/the-best-modern-code-review-tools-2022-468b51751fa) [[reddit](https://www.reddit.com/r/programming/comments/w54zl7/the_best_modern_code_review_tools_2022/)]
 
