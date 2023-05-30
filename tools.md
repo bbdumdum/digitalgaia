@@ -57,6 +57,10 @@ efficient
 
 [Lapce](https://lapce.dev/) - Lightning-fast and Powerful Code Editor
 
+## Debugging
+
+[What a good debugger can do](https://werat.dev/blog/what-a-good-debugger-can-do/) [[reddit](https://www.reddit.com/r/programming/comments/11nmccf/what_a_good_debugger_can_do/)]
+
 # Sysadmin
 
 [Cockpit Project](https://cockpit-project.org/)

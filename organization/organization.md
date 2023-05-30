@@ -27,6 +27,7 @@
 
 - [Best Books For The Inquisitive Software Engineer](https://gerlacdt.github.io/posts/programming-books/)
 
+- [7 Powers: The Foundations of Business Strategy](https://www.goodreads.com/book/show/32816087-7-powers)
 
 ## Meetings
 
