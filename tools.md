@@ -1,5 +1,10 @@
 # Tools
 
+## Modern command-line tools
+
+[A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
+
+
 ## Compression
 
 A very detailed description of the Zstd format: [Zstandard Worked
@@ -49,17 +54,25 @@ Guide](https://spin.atomicobject.com/2013/11/24/secure-gpg-keys-guide/)
 [meson](https://mesonbuild.com/), the new kid on the block, clean and
 efficient
 
+[buck2](https://buck2.build/), a large scale, fast, reliable, and extensible build tool
+
 ## Editors
 
 [VSCodium](https://vscodium.com/), open-source binary of VSCode [[HN](https://news.ycombinator.com/item?id=31604932)]
 
-[Helix](https://helix-editor.com/), a modern terminal editor
+[Helix](https://helix-editor.com/), a modern terminal editor ([some thoughts on it](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune))
 
 [Lapce](https://lapce.dev/) - Lightning-fast and Powerful Code Editor
+
+[AstroNvim](https://github.com/AstroNvim/AstroNvim) [[HN](https://news.ycombinator.com/item?id=35105657)] - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 
 ## Debugging
 
 [What a good debugger can do](https://werat.dev/blog/what-a-good-debugger-can-do/) [[reddit](https://www.reddit.com/r/programming/comments/11nmccf/what_a_good_debugger_can_do/)]
+
+## Misc
+
+[cargo-watch](https://github.com/watchexec/cargo-watch), run commands when files change (also see: watchexec)
 
 # Sysadmin
 
