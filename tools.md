@@ -4,6 +4,9 @@
 
 [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
 
+[Tailspin](https://github.com/bensadeh/tailspin): a log file highlighter [[HN](https://news.ycombinator.com/item?id=38109646)]
+
+
 
 ## Compression
 
@@ -82,6 +85,8 @@ efficient
 [Interactive, file-level Time Machine-like tool for
 ZFS](https://github.com/kimono-koans/httm)
 \[[HN](https://news.ycombinator.com/item?id=31184404)\]
+
+[ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)[[HN](https://news.ycombinator.com/item?id=37387392)]
 
 [OpenSSH configuration
 directives](https://infosec.mozilla.org/guidelines/openssh) from Mozilla

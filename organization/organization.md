@@ -72,3 +72,5 @@ code review should be a daily task, and we may need to dedicate up to 20% of a d
 [The best modern code review tools (2022)](https://medium.com/codeapprove/the-best-modern-code-review-tools-2022-468b51751fa) [[reddit](https://www.reddit.com/r/programming/comments/w54zl7/the_best_modern_code_review_tools_2022/)]
 
 [Quick fixes to your code review workflow](https://consulting.drmaciver.com/code-review-quick-fixes/) [[HN](https://news.ycombinator.com/item?id=31447080)]
+
+From Google: [Faster code reviews = 50% higher software delivery performance](https://devinterrupted.substack.com/p/analysis-the-quickest-path-to-halving) [[reddit](https://www.reddit.com/r/programming/comments/17lkot0/analysis_the_quickest_path_to_halving_software/)]
