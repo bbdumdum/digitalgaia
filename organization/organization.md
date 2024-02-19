@@ -80,3 +80,11 @@ From Google: [Faster code reviews = 50% higher software delivery performance](ht
 Investigate [stacking workflow / stacked PRs](https://stacking.dev/)
 
 Use checklists for code review such as [this one](https://github.com/mgreiler/code-review-checklist)
+
+[Git Branching strategies](https://pradeepl.com/blog/git-branching-strategies/)
+[[reddit](https://www.reddit.com/r/programming/comments/185j2e6/git_branching_strategies_is_this_how_you_are_all/)]
+
+[Stacked Diffs](https://newsletter.pragmaticengineer.com/p/stacked-diffs)
+[Stacking workflow](https://stacking.dev/)
+
+Never wait for code review again: [how stacking your pull requests unblocks your entire team](https://graphite.dev/blog/stacked-prs) [[reddit](https://www.reddit.com/r/programming/comments/192twep/never_wait_for_code_review_again_how_stacking/)]

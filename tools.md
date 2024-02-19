@@ -6,9 +6,13 @@
 
 [CLI: improved](https://remysharp.com/2018/08/23/cli-improved)
 
+List of [terminal tools](https://terminaltrove.com/)
+
 [Tailspin](https://github.com/bensadeh/tailspin): a log file highlighter [[HN](https://news.ycombinator.com/item?id=38109646)]
 
 [Broot](https://dystroy.org/broot/) – A new way to see and navigate directory trees [[HN](https://news.ycombinator.com/item?id=21998638)]
+
+[lnav](https://lnav.org/):  An advanced log file viewer for the small-scale
 
 [hyperfine](https://github.com/sharkdp/hyperfine/) - A command-line benchmarking tool.
 
@@ -83,9 +87,13 @@ efficient
 
 [What a good debugger can do](https://werat.dev/blog/what-a-good-debugger-can-do/) [[reddit](https://www.reddit.com/r/programming/comments/11nmccf/what_a_good_debugger_can_do/)]
 
+## Git
+
+
+
 ## Misc
 
-[cargo-watch](https://github.com/watchexec/cargo-watch), run commands when files change (also see: watchexec)
+[cargo-watch](https://github.com/watchexec/cargo-watch), run commands when files change (also see: watchexec, bacon)
 
 # Sysadmin
 
