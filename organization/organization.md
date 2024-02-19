@@ -74,3 +74,11 @@ code review should be a daily task, and we may need to dedicate up to 20% of a d
 [Quick fixes to your code review workflow](https://consulting.drmaciver.com/code-review-quick-fixes/) [[HN](https://news.ycombinator.com/item?id=31447080)]
 
 From Google: [Faster code reviews = 50% higher software delivery performance](https://devinterrupted.substack.com/p/analysis-the-quickest-path-to-halving) [[reddit](https://www.reddit.com/r/programming/comments/17lkot0/analysis_the_quickest_path_to_halving_software/)]
+
+[Git Branching strategies](https://pradeepl.com/blog/git-branching-strategies/)
+[[reddit](https://www.reddit.com/r/programming/comments/185j2e6/git_branching_strategies_is_this_how_you_are_all/)]
+
+[Stacked Diffs](https://newsletter.pragmaticengineer.com/p/stacked-diffs)
+[Stacking workflow](https://stacking.dev/)
+
+Never wait for code review again: [how stacking your pull requests unblocks your entire team](https://graphite.dev/blog/stacked-prs) [[reddit](https://www.reddit.com/r/programming/comments/192twep/never_wait_for_code_review_again_how_stacking/)]

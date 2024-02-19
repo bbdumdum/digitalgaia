@@ -4,8 +4,11 @@
 
 [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
 
+List of [terminal tools](https://terminaltrove.com/)
+
 [Tailspin](https://github.com/bensadeh/tailspin): a log file highlighter [[HN](https://news.ycombinator.com/item?id=38109646)]
 
+[lnav](https://lnav.org/):  An advanced log file viewer for the small-scale
 
 
 ## Compression
@@ -73,9 +76,13 @@ efficient
 
 [What a good debugger can do](https://werat.dev/blog/what-a-good-debugger-can-do/) [[reddit](https://www.reddit.com/r/programming/comments/11nmccf/what_a_good_debugger_can_do/)]
 
+## Git
+
+
+
 ## Misc
 
-[cargo-watch](https://github.com/watchexec/cargo-watch), run commands when files change (also see: watchexec)
+[cargo-watch](https://github.com/watchexec/cargo-watch), run commands when files change (also see: watchexec, bacon)
 
 # Sysadmin
 
