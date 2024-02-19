@@ -4,9 +4,19 @@
 
 [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
 
+[CLI: improved](https://remysharp.com/2018/08/23/cli-improved)
+
 [Tailspin](https://github.com/bensadeh/tailspin): a log file highlighter [[HN](https://news.ycombinator.com/item?id=38109646)]
 
+[Broot](https://dystroy.org/broot/) – A new way to see and navigate directory trees [[HN](https://news.ycombinator.com/item?id=21998638)]
 
+[hyperfine](https://github.com/sharkdp/hyperfine/) - A command-line benchmarking tool.
+
+[How FZF and ripgrep improved my workflow](https://medium.com/@sidneyliebrand/how-fzf-and-ripgrep-improved-my-workflow-61c7ca212861) [[HN](https://news.ycombinator.com/item?id=20360204)]
+
+[z.lua](https://github.com/skywind3000/z.lua): fast & smart "cd": [[HN](https://news.ycombinator.com/item?id=19077891)]
+
+[Query the Unicode database from the commandline, with good support for emojis](https://github.com/arp242/uni)
 
 ## Compression
 

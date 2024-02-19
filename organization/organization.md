@@ -74,3 +74,9 @@ code review should be a daily task, and we may need to dedicate up to 20% of a d
 [Quick fixes to your code review workflow](https://consulting.drmaciver.com/code-review-quick-fixes/) [[HN](https://news.ycombinator.com/item?id=31447080)]
 
 From Google: [Faster code reviews = 50% higher software delivery performance](https://devinterrupted.substack.com/p/analysis-the-quickest-path-to-halving) [[reddit](https://www.reddit.com/r/programming/comments/17lkot0/analysis_the_quickest_path_to_halving_software/)]
+
+[Empirically supported code review best practices](https://graphite.dev/blog/code-review-best-practices) [[reddit](https://www.reddit.com/r/programming/comments/18mghkp/empirically_supported_code_review_best_practices/)]
+
+Investigate [stacking workflow / stacked PRs](https://stacking.dev/)
+
+Use checklists for code review such as [this one](https://github.com/mgreiler/code-review-checklist)

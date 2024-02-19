@@ -49,7 +49,8 @@ converting any doc to a Dash docset: [How I’m a Productive Programmer With a M
 
 [http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/](<http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/>)
 
-
 [Google Technical Writing Courses](<https://developers.google.com/tech-writing>) [[reddit](<https://www.reddit.com/r/programming/comments/nf1hs1/google_course_technical_writing_for_software/>)]
+
+[Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) [[HN](https://news.ycombinator.com/item?id=38865416)]
 
 Not necessarily documentation, but communication in general: [Writing one sentence per line](https://sive.rs/1s) [[HN](https://news.ycombinator.com/item?id=31808093)]
