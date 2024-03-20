@@ -89,7 +89,15 @@ efficient
 
 ## Git
 
+[Modern Git Commands and Features You Should Be Using](https://martinheinz.dev/blog/109) [[reddit](https://www.reddit.com/r/programming/comments/1bafh54/modern_git_commands_and_features_you_should_be/)]
 
+[Gitbutler](https://gitbutler.com/)
+
+[Git Tips 2: New Stuff in Git](https://blog.gitbutler.com/git-tips-2-new-stuff-in-git/) [[HN](https://news.ycombinator.com/item?id=39356042)]
+
+[Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/) [[Reddit](https://www.reddit.com/r/programming/comments/1atowsj/popular_git_config_options/)]
+
+not specifically git, but a smart diff tool (can be used with git): [Difftastic](https://difftastic.wilfred.me.uk/)
 
 ## Misc
 

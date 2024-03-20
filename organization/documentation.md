@@ -58,3 +58,5 @@ documentation structure/organization: [Diátaxis](https://diataxis.fr/)
 [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) [[HN](https://news.ycombinator.com/item?id=38865416)]
 
 Not necessarily documentation, but communication in general: [Writing one sentence per line](https://sive.rs/1s) [[HN](https://news.ycombinator.com/item?id=31808093)]
+
+tool for enforcing style guidelines for text: [Vale](https://vale.sh/) [[LWN](https://lwn.net/Articles/964075/)]
