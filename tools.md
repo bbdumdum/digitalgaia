@@ -66,6 +66,8 @@ Guide](https://spin.atomicobject.com/2013/11/24/secure-gpg-keys-guide/)
 
 ## Build systems
 
+[Build systems a la carte: theory and practice](https://simon.peytonjones.org/build-systems-a-la-carte-theory-and-practice/)
+
 [waf](https://waf.io/), the meta build system
 
 [meson](https://mesonbuild.com/), the new kid on the block, clean and

@@ -63,6 +63,9 @@ apparently good tool to split/merge/rebase commits: [https://gitup.co/](<https:/
 
 check Dan's article about [independent parties vs. general partnership](https://hive.blog/fractally/@dan/implications-of-eden-s-declaration-of-independence)
 
+Some "tech coops", maybe good source of inspiration
+https://tech-coops.xyz/
+
 ## communication
 
 integrate some remarks/comments about the apolitical nature of the project, we also don't have a code of conduct because this is all about the technology (neutral). SJW can just fuck off! And yeah, we should be nice to each other, but that isn't a thing from the project, it's just good human behavior. We should operate according to [Crocker's rules](https://www.lesswrong.com/tag/crockers-rules)
