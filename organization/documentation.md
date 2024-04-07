@@ -60,3 +60,5 @@ documentation structure/organization: [Diátaxis](https://diataxis.fr/)
 Not necessarily documentation, but communication in general: [Writing one sentence per line](https://sive.rs/1s) [[HN](https://news.ycombinator.com/item?id=31808093)]
 
 tool for enforcing style guidelines for text: [Vale](https://vale.sh/) [[LWN](https://lwn.net/Articles/964075/)]
+
+[What I think about when I edit](https://evaparish.com/blog/how-i-edit) [[HN](https://news.ycombinator.com/item?id=39950760)]
