@@ -22,6 +22,15 @@ List of [terminal tools](https://terminaltrove.com/)
 
 [Query the Unicode database from the commandline, with good support for emojis](https://github.com/arp242/uni)
 
+## Task runners
+
+[Just](https://just.systems/) [[github](https://github.com/casey/just)]
+
+[Invoke](https://www.pyinvoke.org/)
+
+[DoIt](https://pydoit.org/
+
+
 ## Compression
 
 A very detailed description of the Zstd format: [Zstandard Worked
@@ -98,6 +107,8 @@ efficient
 [Git Tips 2: New Stuff in Git](https://blog.gitbutler.com/git-tips-2-new-stuff-in-git/) [[HN](https://news.ycombinator.com/item?id=39356042)]
 
 [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/) [[Reddit](https://www.reddit.com/r/programming/comments/1atowsj/popular_git_config_options/)]
+
+[Sublime Merge](https://www.sublimemerge.com/)
 
 not specifically git, but a smart diff tool (can be used with git): [Difftastic](https://difftastic.wilfred.me.uk/)
 

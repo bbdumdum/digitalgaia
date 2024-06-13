@@ -29,3 +29,23 @@ more [cypherpunk links](https://news.ycombinator.com/item?id=18690492)
 
 check Framasoft, they have some pretty good ideas, tenets and organization: https://framablog.org/, https://framasoft.org/en/
 ```
+
+```{note}
+old text from 2014
+
+*** why the name?
+
+DigitalGaia because I believe in a world that is both respectful of
+our planet and embraces technology. I don't think that one should exclude
+the other, and I believe very strongly in the power of decentralization
+to help us build a better world that is inclusive for everyone and doesn't
+create central failure points that accreted through concentration of money,
+power and greed.
+
+Having recently come accross Nassim Nicholas Taleb's writings, I strongly
+believe that anti-fragile systems are now required to run the world's economy,
+and I do believe that BitShares (and Bitcoin, and all decentralized systems
+in general) are such anti-fragile systems.
+
+
+```

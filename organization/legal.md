@@ -15,6 +15,14 @@ the digitalgaia collective uses the funds to pay for the people (kind of UBI, in
 
 [https://en.wikipedia.org/wiki/Collective](<https://en.wikipedia.org/wiki/Collective>)
 
+## Possible (easy) ways to compensate people for their work
+
+<https://ko-fi.com/>
+
+<https://opencollective.com/>
+
+<https://opencollective.com/europe>
+
 
 
 ## Types of company structures in Spain
