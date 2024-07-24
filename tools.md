@@ -2,6 +2,12 @@
 
 ## Modern command-line tools
 
+```{note}
+Most of the HN or Reddit comments in the following sections usually also have recommendations for other tools, they are worth checking out.
+```
+
+[A collection of modern/faster/saner alternatives to common unix commands](https://github.com/johnalanwoods/maintained-modern-unix)
+
 [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
 
 [CLI: improved](https://remysharp.com/2018/08/23/cli-improved)
@@ -12,6 +18,8 @@ List of [terminal tools](https://terminaltrove.com/)
 
 [Broot](https://dystroy.org/broot/) – A new way to see and navigate directory trees [[HN](https://news.ycombinator.com/item?id=21998638)]
 
+[Eza](https://github.com/eza-community/eza): A modern, maintained replacement for ls [[HN](https://news.ycombinator.com/item?id=41031112)]
+
 [lnav](https://lnav.org/):  An advanced log file viewer for the small-scale
 
 [hyperfine](https://github.com/sharkdp/hyperfine/) - A command-line benchmarking tool.
@@ -21,6 +29,8 @@ List of [terminal tools](https://terminaltrove.com/)
 [z.lua](https://github.com/skywind3000/z.lua): fast & smart "cd": [[HN](https://news.ycombinator.com/item?id=19077891)]
 
 [Query the Unicode database from the commandline, with good support for emojis](https://github.com/arp242/uni)
+
+[Advanced Terminal Tips and Tricks](https://www.bitsand.cloud/posts/terminal-tips/) [[reddit](https://www.reddit.com/r/programming/comments/1e7qaat/advanced_terminal_tips_and_tricks/)]
 
 ## Task runners
 
