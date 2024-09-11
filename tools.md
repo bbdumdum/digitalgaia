@@ -10,6 +10,8 @@ Most of the HN or Reddit comments in the following sections usually also have re
 
 [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
 
+[modern unix tool list](https://notes.billmill.org/computer_usage/cli_tips_and_tools/modern_unix_tool_list.html) [[HN](https://news.ycombinator.com/item?id=41292835)]
+
 [CLI: improved](https://remysharp.com/2018/08/23/cli-improved)
 
 List of [terminal tools](https://terminaltrove.com/)
@@ -31,6 +33,16 @@ List of [terminal tools](https://terminaltrove.com/)
 [Query the Unicode database from the commandline, with good support for emojis](https://github.com/arp242/uni)
 
 [Advanced Terminal Tips and Tricks](https://www.bitsand.cloud/posts/terminal-tips/) [[reddit](https://www.reddit.com/r/programming/comments/1e7qaat/advanced_terminal_tips_and_tricks/)]
+
+### du-like tools (disk usage)
+
+[ncdu](https://dev.yorhel.nl/ncdu)
+
+[duf: Disk Usage/Free Utility - a better 'df' alternative](https://github.com/muesli/duf)
+[reddit](https://www.reddit.com/r/programming/comments/j1er6d/duf_is_like_htop_for_disk_usage/)
+
+[dua-cli: View disk space usage and delete unwanted data, fast.](https://github.com/Byron/dua-cli)
+
 
 ## Task runners
 
@@ -120,9 +132,17 @@ efficient
 
 [Sublime Merge](https://www.sublimemerge.com/)
 
-not specifically git, but a smart diff tool (can be used with git): [Difftastic](https://difftastic.wilfred.me.uk/)
+## Diff tools
+
+smart diff tool (can be used with git): [Difftastic](https://difftastic.wilfred.me.uk/)
+
+A syntax-highlighting pager for git, diff, grep, and blame output [Delta](https://github.com/dandavison/delta)
+
+Side-by-side highlighted command line diffs: [Icdiff](https://www.jefftk.com/icdiff) [[HN]](https://news.ycombinator.com/item?id=23744381)
 
 ## Misc
+
+setting up dev envs per directory (a la virtualenv, asdf, etc.): [Mise](https://github.com/jdx/mise)
 
 [cargo-watch](https://github.com/watchexec/cargo-watch), run commands when files change (also see: watchexec, bacon)
 

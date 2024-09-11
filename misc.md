@@ -50,6 +50,9 @@ apparently good tool to split/merge/rebase commits: [https://gitup.co/](<https:/
   live-coding: [Glicol](https://glicol.org/) [[reddit](https://www.reddit.com/r/programming/comments/v8b8g3/glicol_graphoriented_live_coding_language_and/)]
 
 - lightweight nfo viewer in rust/qt  (cp437 font?) (nfo test file: mythematica.nfo, ott-skylon.nfo)
+  check <https://infekt.ws/> for inspiration
+
+- port figlet to rust
 
 - [gameboy emulator][gbemu] (in C++/Rust/Python/GO) [[reddit](https://www.reddit.com/r/programming/comments/q4315n/rosettaboy_the_same_gameboy_emulator_in_rust/)]
 

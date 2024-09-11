@@ -19,6 +19,8 @@ the digitalgaia collective uses the funds to pay for the people (kind of UBI, in
 
 <https://ko-fi.com/>
 
+<https://www.oscollective.org/>
+
 <https://opencollective.com/>
 
 <https://opencollective.com/europe>

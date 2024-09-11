@@ -14,6 +14,9 @@ research for which internal tools to use should be made as RFC/decision style do
 - sysadmin/devops (pyinfra) (see also network topologies (tailscale etc.) in hacking.org > netsec)
 
 investigate [Radicle](https://radicle.xyz/blog/towards-decentralized-code-collaboration.html) for source code hosting and bug-tracking
+https://radicle.xyz/2024/09/10/radicle-1.0.html
+https://radicle.xyz/guides/user
+
 
 ## Infrastructure maintenance
 

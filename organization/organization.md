@@ -17,6 +17,8 @@
 
 - [Open Decision-Making](https://web.stanford.edu/\~ouster/cgi-bin/decisions.php)  (by John Ousterhout)
 
+- [How to Build Anything Extremely Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/) [[HN](https://news.ycombinator.com/item?id=41148517)]
+
 - [My key takeaways from The Pragmatic Programmer](https://arkadiuszchmura.com/posts/my-key-takeaways-from-the-pragmatic-programmer/)
 
 - book on how to run a successful free software project: [Producing Open Source Software](https://producingoss.com/)
