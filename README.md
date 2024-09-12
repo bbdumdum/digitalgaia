@@ -1,5 +1,17 @@
 # DigitalGaia documentation
 
+## What is it?
+
+This repository contains the information pertaining to the organization of the
+DigitalGaia collective.
+
+It is written using the [Sphinx](https://www.sphinx-doc.org/) documentation
+system using the [MyST plugin](https://myst-parser.readthedocs.io/), allowing
+pages to be written either in the `rst` format or the `markdown` format.
+
+
+## Build documentation
+
 Start by creating a new virtualenv (recommended), then installing the
 requirements:
 
@@ -21,3 +33,18 @@ make clean  # optional, never hurts though :)
 make html
 python run_livereload.py
 ```
+
+## TODO / FIXME
+
+- add favicon
+
+- check other fonts for styling the documentation
+  https://fonts.google.com/specimen/Exo+2
+  normal: Roboto Slab, Noto, Merriweather, Lato, Caslon
+  heading: CooperBT, Averia
+
+- add button to edit directly in github
+  look at Furo theme icons in top-right: there is one that allows to edit directly in github, have the same one in digitalgaia
+  see also: https://pradyunsg.me/furo/customisation/top-of-page-buttons/
+
+- remove unused fonts from `custom.css` and `_static/fonts` folder

@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'DigitalGaia'
-copyright = '2022, Nicolas Wack <wackou@digitalgaia.net>'
+copyright = '2022-2024, Nicolas Wack <wackou@digitalgaia.net>'
 author = 'Nicolas Wack <wackou@digitalgaia.net>'
 
 
@@ -47,6 +47,16 @@ exclude_patterns = ['README.md', '_build', 'Thumbs.db', '.DS_Store', '.venv']
 #
 #html_theme = 'sphinx_book_theme'
 html_theme = 'furo'
+
+html_theme_options = {
+    "announcement": "<em><b>Important:</b> The following website is a work-in-progress and, as such, no information is to be taken as final or definitive.</em>",
+
+    "light_css_variables": {
+        # "font-stack": "Crimson Pro",
+        # "font-stack--monospace": "Courier, monospace",
+        "font-stack--headings": "Averia, serif",
+    },
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

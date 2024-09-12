@@ -12,3 +12,48 @@
     font-weight: 400;
     color: #555555;
 }
+
+
+table.borderless {
+    box-shadow: none;
+}
+
+table.borderless td, table.borderless th {
+    border-bottom: 0px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+table.fancytext em {
+    font-family: 'chintzys', sans-serif;
+    font-size: 2rem;
+}
+
+table.fancytext p {
+    font-family: 'averia';
+    /* font-size: 2rem; */
+}
+
+/* temporary font faces while testing */
+
+@font-face {
+    font-family: 'merriweather';
+    src: url('/_static/fonts/Merriweather-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'averia';
+    src: url('/_static/fonts/AveriaSerifLibre-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'crimson';
+    src: url('/_static/fonts/CrimsonPro-VariableFont_wght.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
