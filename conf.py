@@ -56,6 +56,10 @@ html_theme_options = {
         # "font-stack--monospace": "Courier, monospace",
         "font-stack--headings": "Averia, serif",
     },
+
+    "source_repository": "https://github.com/digigaia/digitalgaia/",
+    "source_branch": "master",
+    "source_directory": "/",
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,

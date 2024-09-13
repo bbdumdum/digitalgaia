@@ -10,7 +10,7 @@
 
 
 .. |dgtree| image:: _static/gaia_tree.svg
-                    :scale: 50%
+                    :width: 400
 
 .. |intro_blurb| replace:: "A place where nature and technology
                            weave into one another..."
