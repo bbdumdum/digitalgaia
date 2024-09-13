@@ -20,8 +20,10 @@
    :maxdepth: 3
    :caption: Concepts
 
+   about
    manifesto
-   roadmap
+   timeline
+   philosophy
 
 |
 

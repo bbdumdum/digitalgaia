@@ -67,3 +67,5 @@ html_css_files = ['custom.css']
 
 #html_logo = '_static/gaia_tree.svg'
 html_title = 'Digital Gaia'
+
+html_favicon = 'favicon.ico'
