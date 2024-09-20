@@ -9,7 +9,9 @@ In the digitalgaia tree logo, we can see 5 roots joining together (learning phas
 Each branch covers a certain expertise, and together we collectively cover a much bigger area of knowledge/expertise.
 
 ```{important}
-An important point is that the branches need to be able to grow freely, so that the organization grows organically. A centralized organization (typical startup) would try to push everyone in the same direction, but that would be detrimental, the same as if a tree would grow all its branches in the same direction. This way, each participant has the freedom to recognize the opportunities around him and take initiative on them, without bureaucracy associated with that. If at some point there is the need for more manpower on a certain project this can always be subcontracted.
+An important point is that the branches need to be able to grow freely, so that the organization grows organically. A centralized organization (typical startup) would try to push everyone in the same direction, but that would be detrimental in the long run, the same as if a tree would grow all its branches in the same direction.
+
+This way, each participant has the freedom to recognize the opportunities around him and take initiative on them, without bureaucracy associated with that. If at some point there is the need for more manpower on a certain project this can always be subcontracted.
 ```
 
 

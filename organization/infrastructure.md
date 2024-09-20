@@ -1,8 +1,6 @@
 # Infrastructure
 
-Linear workspace: [https://linear.app/digitalgaia/](<https://linear.app/digitalgaia/>)
-
-research for which internal tools to use should be made as RFC/decision style document:
+Research for which internal tools to use should be made as RFC/decision style document:
 (see: [Tools](../tools.md) for more info)
 
 - password manager (bitwarden)
