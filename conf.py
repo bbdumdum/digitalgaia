@@ -52,7 +52,7 @@ html_theme_options = {
     "announcement": "<em><b>Important:</b> The following website is a work-in-progress and, as such, no information is to be taken as final or definitive.</em>",
 
     "light_css_variables": {
-        # "font-stack": "Crimson Pro",
+        "font-stack": "Open Sans, sans-serif",
         # "font-stack--monospace": "Courier, monospace",
         "font-stack--headings": "Averia, serif",
     },

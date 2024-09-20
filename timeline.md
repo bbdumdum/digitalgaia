@@ -2,17 +2,14 @@
 
 ## 1. Learning phase, organization and infrastructure setup
 
-1-2 years of total freedom of main projects (except maybe hobby projects, eg: 8bit synth in rust), but main goal is to learn and sharpen one's knives: programming languages, infrastructure setup, collaboration model setup (matrix, github, etc.)
+1-2 years of total freedom of projects, but main goal is to learn and sharpen one's knives: programming languages, infrastructure setup, collaboration model setup (matrix, github, etc.)
 
-Workflows should be defined and refined, and everyone is encouraged to follow them diligently. Setting this up early allows us to have a much more streamlined workflow naturally in place for the future.<br>
-
-<br>
+Workflows should be defined and refined, and everyone is encouraged to follow them diligently. Setting this up early allows us to have a much more streamlined workflow naturally in place for the future.
 
 can also go for random coursera classes, etc.
 
 should already have the brainstorming sessions every week. Need to find a way to properly record them effortlessly, but in a way to gives them utility afterwards (not sure about that: taking minutes is always a burden that nobody wants to shoulder and they are never read afterwards. audio sessions should be informative only (ie: information-sharing), whereas important decisions need to happen in an asynchronous way (more efficient)).
 
-possibility to start half-time if it makes a transition smoother<br>
 
 ## 2. Project(s) inception
 

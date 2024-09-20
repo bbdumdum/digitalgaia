@@ -38,7 +38,7 @@ python run_livereload.py
 
 - check other fonts for styling the documentation
   https://fonts.google.com/specimen/Exo+2
-  normal: Roboto Slab, Noto, Merriweather, Lato, Caslon
+  normal: Roboto Slab, Noto, Merriweather, Lato, Caslon, Open Sans, Cantarell, Menlo
   heading: CooperBT, Averia
 
 - remove unused fonts from `custom.css` and `_static/fonts` folder

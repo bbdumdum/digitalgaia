@@ -21,6 +21,26 @@ We generally start a project together at some point, and learn how to work toget
 I stipulate that there is virtue and eventual efficiency in first learning how to work together, but without starting to work on the main project directly. This way we don't introduce technical debt at the very beginning of the main project, but rather on toy projects that we use to “sharpen our knives”. This allows to efficiently setup the organization in a “light” way, as there is nothing at stake. Mistakes at this stage are a good way to learn more! But the real value is that after that the main workflow of most people is done in a very fluid way allowing people to focus on “what” they need to do, not “how” they need to do it. They are now ready to work and focus on a main project that they will be able to work on in a “proper” way.
 
 
+```{note}
+old text from 2014
+
+*** why the name?
+
+DigitalGaia because I believe in a world that is both respectful of
+our planet and embraces technology. I don't think that one should exclude
+the other, and I believe very strongly in the power of decentralization
+to help us build a better world that is inclusive for everyone and doesn't
+create central failure points that accreted through concentration of money,
+power and greed.
+
+Having recently come accross Nassim Nicholas Taleb's writings, I strongly
+believe that anti-fragile systems are now required to run the world's economy,
+and I do believe that BitShares (and Bitcoin, and all decentralized systems
+in general) are such anti-fragile systems.
+
+
+```
+
 ## History
 
 Crystallization of DigitalGaia concept as a collective dates from 2020-12-13
