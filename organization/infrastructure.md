@@ -1,7 +1,7 @@
 # Infrastructure
 
 Research for which internal tools to use should be made as RFC/decision style document:
-(see: [Tools](../tools.md) for more info)
+(see: [Tools](../ktree/tools.md) for more info)
 
 - password manager (bitwarden)
 - communication (matrix, element, zulip)

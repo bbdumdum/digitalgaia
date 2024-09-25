@@ -23,6 +23,10 @@ another section could be about motivation / philosophy / beliefs. This represent
 the first phase in the DG process (1st year) is here to build our knowledge and to refine our craft
 ```
 
+```{note}
+Investigate [GNU Hyperbole](https://www.gnu.org/software/hyperbole/)
+```
+
 there is also a handbook for the collective, containing amongst other the digitalgaia manifesto
 
 we could have, say, 1 week / year where we stop all activity and only review, update and fix documentation of all products / internal infrastructure (kind of a spring cleaning week).

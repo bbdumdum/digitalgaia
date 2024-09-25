@@ -1,5 +1,7 @@
 sphinx
-livereload
 myst-parser
 furo
-sphinx-book-theme
+livereload
+
+# unused now:
+# sphinx-book-theme

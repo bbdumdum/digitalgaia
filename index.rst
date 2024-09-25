@@ -20,10 +20,10 @@
    :maxdepth: 3
    :caption: Concepts
 
-   about
-   manifesto
-   timeline
-   philosophy
+   concepts/about
+   concepts/manifesto
+   concepts/timeline
+   concepts/philosophy
 
 |
 
@@ -41,7 +41,9 @@
 .. toctree::
    :caption: Tools
 
-   tools
+   ktree/tools
+   ktree/programming
+   ktree/sysadmin
 
 |
 
