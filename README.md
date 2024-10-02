@@ -36,6 +36,8 @@ python run_livereload.py
 
 ## TODO / FIXME
 
+- check other themes for doc: <https://github.com/lepture/shibuya>, others...
+
 - check other fonts for styling the documentation
   https://fonts.google.com/specimen/Exo+2
   normal: Roboto Slab, Noto, Merriweather, Lato, Caslon, Open Sans, Cantarell, Menlo

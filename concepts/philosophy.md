@@ -2,7 +2,7 @@
 
 ## Imagery
 
-<img src="_static/gaia_tree.svg" alt="gaia_tree" width="50%" />
+<img src="/_static/gaia_tree.svg" alt="gaia_tree" width="50%" />
 
 In the digitalgaia tree logo, we can see 5 roots joining together (learning phase) and growing together for a first period of time to set solid bases (the trunk). This corresponds to the project inception. After that, each main branch is free to fork into its own directions and split at its own will, growing branches and leaves, in order to cover more areas of knowledge.
 
@@ -41,6 +41,10 @@ and I do believe that BitShares (and Bitcoin, and all decentralized systems
 in general) are such anti-fragile systems.
 
 
+```
+
+```{note}
+We want to be antifragile, that means we need to get stronger after encountering issues. So when fixing a bug, we should try to not only fix the bug but also to enhance the system to make it more resilient to this type of bugs, effectively proactively avoiding this class of bugs.
 ```
 
 ## History

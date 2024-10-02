@@ -37,6 +37,16 @@ efficient
 
 [Sublime Merge](https://www.sublimemerge.com/)
 
+### Git workflows
+
+[git-branchless](<https://github.com/arxanas/git-branchless>): Branchless workflow for Git
+
+→ [git undo](<https://blog.waleedkhan.name/git-undo/>): feature from the above ([HN thread](<https://news.ycombinator.com/item?id=27579701>))
+
+apparently good tool to split/merge/rebase commits: [https://gitup.co/](<https://gitup.co/>)
+
+
+
 ## Diff tools
 
 smart diff tool (can be used with git): [Difftastic](https://difftastic.wilfred.me.uk/)
@@ -50,3 +60,5 @@ Side-by-side highlighted command line diffs: [Icdiff](https://www.jefftk.com/icd
 setting up dev envs per directory (a la virtualenv, asdf, etc.): [Mise](https://github.com/jdx/mise)
 
 [cargo-watch](https://github.com/watchexec/cargo-watch), run commands when files change (also see: watchexec, bacon)
+
+**Note:** `cargo-watch` [has been deprecated](https://www.reddit.com/r/rust/comments/1ftc7cj/cargo_watch_is_on_life_support/) in favor of `bacon`

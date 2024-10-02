@@ -25,15 +25,6 @@ VSM, Stafford Beer, cybernetics in general
 [Productivity Porn](https://calebschoepp.com/blog/2022/productivity-porn/)
 [[HN](https://news.ycombinator.com/item?id=32335165)]
 
-# Git workflows
-
-[git-branchless](<https://github.com/arxanas/git-branchless>): Branchless workflow for Git
-
-→ [git undo](<https://blog.waleedkhan.name/git-undo/>): feature from the above ([HN thread](<https://news.ycombinator.com/item?id=27579701>))
-
-apparently good tool to split/merge/rebase commits: [https://gitup.co/](<https://gitup.co/>)
-
-
 
 # About testing
 
@@ -41,22 +32,6 @@ apparently good tool to split/merge/rebase commits: [https://gitup.co/](<https:/
 
 
 [Don’t Mock What You Don’t Own](https://hynek.me/articles/what-to-mock-in-5-mins/) [[HN](https://news.ycombinator.com/item?id=31822683)]
-
-# Toy projects / ideas list
-
-- zelda-style adventure game
-- 8bit sampler / sfx gen
-  example: [WASM synth](https://timdaub.github.io/2020/02/19/wasm-synth/#f1) [[HN](https://news.ycombinator.com/item?id=27276400)]
-  live-coding: [Glicol](https://glicol.org/) [[reddit](https://www.reddit.com/r/programming/comments/v8b8g3/glicol_graphoriented_live_coding_language_and/)]
-
-- lightweight nfo viewer in rust/qt  (cp437 font?) (nfo test file: mythematica.nfo, ott-skylon.nfo)
-  check <https://infekt.ws/> for inspiration
-
-- port figlet to rust
-
-- [gameboy emulator][gbemu] (in C++/Rust/Python/GO) [[reddit](https://www.reddit.com/r/programming/comments/q4315n/rosettaboy_the_same_gameboy_emulator_in_rust/)]
-
-[gbemu]: https://github.com/shish/rosettaboy
 
 
 
@@ -84,23 +59,3 @@ We believe it doesn’t have to be so
 Digital gaia: a technology and nature symbiosis project
 
 Relation to solarpunk?
-
-```{note}
-
-*old comment about the digitalgaia name*
-
-**why the name?**
-
-DigitalGaia because I believe in a world that is both respectful of
-our planet and embraces technology. I don't think that one should exclude
-the other, and I believe very strongly in the power of decentralization
-to help us build a better world that is inclusive for everyone and doesn't
-create central failure points that accreted through concentration of money,
-power and greed.
-
-Having recently come accross Nassim Nicholas Taleb's writings, I strongly
-believe that anti-fragile systems are now required to run the world's economy,
-and I do believe that BitShares (and Bitcoin, and all decentralized systems
-in general) are such anti-fragile systems.
-
-```

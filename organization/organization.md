@@ -33,35 +33,37 @@
 
 ## Meetings
 
-**weekly / monthly meetings on readings / interesting articles / potential new projects**
+**biweekly / monthly meetings on readings / interesting articles / potential new projects**
 
-people should talk about 1 (or more) articles, piece of news, or brainstorming idea of<br>
-
+people should talk about 1 (or more) articles, piece of news, or brainstorming idea of
 potential new/fun/interesting projects
 
-**meetings are audio-only, we don't want webcam. It's freer this way, less physical**<br>
+**meetings are audio-only, we don't want webcam**
 
-constraints to participate in meeting. We can use video for slides, images, etc.<br>
+It's freer this way, less physical constraints to participate in meeting.
+We can use video for slides, images, etc.
 
 own matrix server
 
-meetings should be weekly 2 hours, no planning or prepared questions, just open<br>
-
+meetings should be biweekly 2 hours, no planning or prepared questions, just open
 discussion where everyone raises whatever question is needed by them
 
-anything goes as to what can be talked about, people are also encouraged to talk about their recent work if they have major changes they want to share with the others
+anything goes as to what can be talked about, people are also encouraged to talk
+about their recent work if they have major changes they want to share with the others.
 
-\-> no need for minutes, no one wants to write them, and no one reads them. If anything important needs to be written, this should happen as a documentation writing item of some sort (eg: in linear).
+-> no need for minutes, no one wants to write them, and no one reads them.
+If anything important needs to be written, this should happen as a documentation
+writing item of some sort (eg: in linear).
 
 
-
+(sop-ref)=
 ## Standard Operating Procedures
 
 improvements to software should be made using RFC-style proposals (or BIP, EIP, etc., eg: [https://github.com/fioprotocol/fips](https://github.com/fioprotocol/fips))
 
 [How to Stop Endless Discussions](<https://candost.blog/how-to-stop-endless-discussions/>) [[HN](https://news.ycombinator.com/item?id=25622149)]
 
-rst template should be provided containing required sections (eg: NABC, etc. see HN comments, for instance also rename "competitors" to "alternatives")
+rst/markdown template should be provided containing required sections (eg: NABC, etc. see HN comments, for instance also rename "competitors" to "alternatives")
 
 [Documenting Design Decisions using RFCs and ADRs](https://brunoscheufler.com/blog/2020-07-04-documenting-design-decisions-using-rfcs-and-adrs) [[HN](https://news.ycombinator.com/item?id=31557835)]
 
@@ -69,7 +71,10 @@ check Linear's [method](https://linear.app/method) for issue tracking
 
 code review should be a daily task, and we may need to dedicate up to 20% of a day to it. About code review processes and how to make it better/easier: [code review decision fatigue](<https://tylercipriani.com/blog/2022/03/12/code-review-procrastination-and-clarity/>) ([HN](<https://news.ycombinator.com/item?id=30665319>))
 
-**code review is meant to foster shared ownership of the code instead of one maintainer and various ad-hoc helpers**
+
+## Code review
+
+**code review is meant to foster shared ownership of the code instead of one maintainer and various ad-hoc helper devs**
 
 [The best modern code review tools (2022)](https://medium.com/codeapprove/the-best-modern-code-review-tools-2022-468b51751fa) [[reddit](https://www.reddit.com/r/programming/comments/w54zl7/the_best_modern_code_review_tools_2022/)]
 
@@ -88,5 +93,5 @@ Use checklists for code review such as [this one](https://github.com/mgreiler/co
 
 [Stacked Diffs](https://newsletter.pragmaticengineer.com/p/stacked-diffs)
 [Stacking workflow](https://stacking.dev/)
-
+aa
 Never wait for code review again: [how stacking your pull requests unblocks your entire team](https://graphite.dev/blog/stacked-prs) [[reddit](https://www.reddit.com/r/programming/comments/192twep/never_wait_for_code_review_again_how_stacking/)]

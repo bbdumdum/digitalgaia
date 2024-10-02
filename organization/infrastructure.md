@@ -1,7 +1,6 @@
 # Infrastructure
 
-Research for which internal tools to use should be made as RFC/decision style document:
-(see: [Tools](../ktree/tools.md) for more info)
+Research for which internal tools to use should be made as [RFC/decision style document](#sop-ref)
 
 - password manager (bitwarden)
 - communication (matrix, element, zulip)
@@ -11,29 +10,31 @@ Research for which internal tools to use should be made as RFC/decision style do
 - CI (?)
 - sysadmin/devops (pyinfra) (see also network topologies (tailscale etc.) in hacking.org > netsec)
 
+```{tip}
 investigate [Radicle](https://radicle.xyz/blog/towards-decentralized-code-collaboration.html) for source code hosting and bug-tracking
-https://radicle.xyz/2024/09/10/radicle-1.0.html
-https://radicle.xyz/guides/user
+- <https://radicle.xyz/2024/09/10/radicle-1.0.html>
+- <https://radicle.xyz/guides/user>
+```
 
 ## Security
 
-security needs to be enforced all the time, we want to have proper access to resources. Nothing shared all or public by default. Take care of access with (potentially old) SSH keys on servers.
+Security needs to be enforced all the time, we want to have proper access to resources. Nothing "shared all" or public by default. Take care of access with (potentially old) SSH keys on servers.
 
 
 ## Infrastructure maintenance
 
-upgrade of critical infrastructure should be done in a meeting with everyone watching.
+Upgrade of critical infrastructure should be done in a meeting with everyone watching.
 
 This shares information about what is done, how it is done, and ensures no one is working during that time.
 
-we should also redeploy most of our servers regularly to make sure the install/backup scripts include everything -> even better, we should ensure that we are always able to redeploy the entire infrastructure by just having access to the `servers` repo.
+We should also redeploy most of our servers regularly to make sure the install/backup scripts include everything -> even better, we should ensure that we are always able to redeploy the entire infrastructure by just having access to the `servers` repo.
 
 
 ## Infrastructure as code
 
 see: [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_code)
 
-in general, we want to store and work only on install scripts (a la ansible or pyinfra) instead of artifacts (docker, etc.). Even though it seems like containers/artifacts give us reproducibility, it introduces a lot of complexity in managing how artifacts are stored, how much they weigh, etc. Having only install scripts keeps only the high-level logic of the infrastructure and is much more nimble, and if it is refined it can be as efficient as artifacts-based deployments (I postulate this, I have no evidence of it)
+in general, we want to store and work only on install scripts (a la ansible or pyinfra) instead of artifacts (docker, etc.). Even though it seems like containers/artifacts give us reproducibility, it introduces a lot of complexity in managing how artifacts are stored, how much they weigh, etc. Having only install scripts keeps only the high-level logic of the infrastructure and is much more nimble.
 
 see also: [Why not Docker for SourceHut?](https://paste.sr.ht/~sircmpwn/78cc21e1661d5a9d8038f47e532d286807ac89ad)
 

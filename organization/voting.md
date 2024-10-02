@@ -21,12 +21,12 @@ check conway's law: "Any organization that designs a system will produce a desig
 
 ## Voting processes
 
-board is composed of 5 people, each 1 vote. votes are cryptographically signed.<br>
+collective is composed of 5 people, each 1 vote. votes are cryptographically signed.<br>
 
 decision is taken with majority, and everyone needs to vote. Exceptionally, a decision can be taken by only 4 members if they all agree, i.e. all 4 vote for the same resolution.<br>
 
-board changes can happen and need to be voted upon
+collective changes can happen and need to be voted upon
 
 eviction of one person cannot happen with simple majority, it needs to have 4 votes.
 
-board has multisig authority over the main account (which main account?) (3-of-5, 4-of-5?)
+collective has multisig authority over the main account (which main account?) (3-of-5, 4-of-5?)

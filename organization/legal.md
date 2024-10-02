@@ -1,6 +1,10 @@
 
 # Legal / finance
 
+```{note}
+The following section is highly hypothetical and only has food for thought, no actual recommendation or anything like that.
+```
+
 need to figure out if/how company/org can have assets in crypto instead of fiat
 
 status: autonomo<br>

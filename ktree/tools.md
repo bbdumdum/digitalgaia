@@ -50,14 +50,8 @@ List of [terminal tools](https://terminaltrove.com/)
 
 [Invoke](https://www.pyinvoke.org/)
 
-[DoIt](https://pydoit.org/
+[DoIt](https://pydoit.org/)
 
-
-## Compression
-
-A very detailed description of the Zstd format: [Zstandard Worked
-Example](https://nigeltao.github.io/blog/2022/zstandard-part-1-concepts.html)
-\[[HN](https://news.ycombinator.com/item?id=31411714)\]
 
 ## File sharing
 
