@@ -66,3 +66,12 @@ Not necessarily documentation, but communication in general: [Writing one senten
 tool for enforcing style guidelines for text: [Vale](https://vale.sh/) [[LWN](https://lwn.net/Articles/964075/)]
 
 [What I think about when I edit](https://evaparish.com/blog/how-i-edit) [[HN](https://news.ycombinator.com/item?id=39950760)]
+
+## How to write good git commits
+
+[How to Write a Git Commit Message](https://cbea.ms/git-commit/)
+
+
+## Release notes / changelog
+
+[interesting strategy](https://lwn.net/Articles/994678/) for writing good release notes, git-cliff sounds nice in theory but I feel like it's not ideal

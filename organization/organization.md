@@ -17,6 +17,8 @@
 
 - [Open Decision-Making](https://web.stanford.edu/\~ouster/cgi-bin/decisions.php)  (by John Ousterhout)
 
+- [Build Systems, Not Heroes](https://vitonsky.net/blog/2024/10/11/system-approach/) [[reddit](https://www.reddit.com/r/programming/comments/1g1e1x3/build_systems_not_heroes/)]
+
 - [How to Build Anything Extremely Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/) [[HN](https://news.ycombinator.com/item?id=41148517)]
 
 - [My key takeaways from The Pragmatic Programmer](https://arkadiuszchmura.com/posts/my-key-takeaways-from-the-pragmatic-programmer/)
@@ -83,6 +85,8 @@ code review should be a daily task, and we may need to dedicate up to 20% of a d
 From Google: [Faster code reviews = 50% higher software delivery performance](https://devinterrupted.substack.com/p/analysis-the-quickest-path-to-halving) [[reddit](https://www.reddit.com/r/programming/comments/17lkot0/analysis_the_quickest_path_to_halving_software/)]
 
 [Empirically supported code review best practices](https://graphite.dev/blog/code-review-best-practices) [[reddit](https://www.reddit.com/r/programming/comments/18mghkp/empirically_supported_code_review_best_practices/)]
+
+[How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
 Investigate [stacking workflow / stacked PRs](https://stacking.dev/)
 
