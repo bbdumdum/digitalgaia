@@ -62,6 +62,9 @@ On top of this, what is the main account ? A possible list of critical items?
     * third party services (e.g. gandi, bitwarden)
     * collective crypto assets
 
-=> This account would be accessed to implement the decisions from statutes. Access to this would require more `privileged` access than statutes repo - or stronger majority (rewriting SOPs is only thing, accessing all resources another). Then, one argue access to this account would need to be done by 'executive branch', not necesarilly the same 'legislative body' who vote on statutes. Is separation of power needed for an org of 5?. Are the same 5 required to multi-sig (unanimity) after statutes/SOP decisions to access critical resources?
+=> This account would be accessed to implement the decisions from statutes.
+Access to this would require more `privileged` access than statutes repo - or stronger majority (rewriting SOPs is only thing, accessing all resources another).
+Then, one argue access to this account would need to be done by 'executive branch', not necesarilly the same 'legislative body' who vote on statutes.
+Is separation of power needed for an org of 5?. Are the same 5 required to multi-sig (unanimity) after statutes/SOP decisions to access critical resources?
 I am getting confused. There is maybe existing litterature (governance or co-op)about these topics.
 ``` 
