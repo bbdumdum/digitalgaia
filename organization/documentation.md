@@ -72,7 +72,7 @@ investigate following tools:
 
 converting any doc to a Dash docset: [How I’m a Productive Programmer With a Memory of a Fruit Fly](https://hynek.me/articles/productive-fruit-fly-programmer/) [[HN](https://news.ycombinator.com/item?id=32900164)]
 
-[Markwhen, to input and display stuff with dates (HN)]
+[Markwhen, to input and display stuff with dates](<https://markwhen.com/>) [(HN)]
 (<https://news.ycombinator.com/item?id=42289690>)
 
 ## How to write good documentation
