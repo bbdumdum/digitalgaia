@@ -37,7 +37,7 @@ collective is composed of 5 people, each 1 vote. votes are cryptographically sig
 decision is taken with majority, and everyone needs to vote. 
 
 ```{note}
-brainstorming:
+[brainstorming]
 Given assumption above, how are negative votes handled? If vote is sync, we expect all members to be present at a given time and the vote decision YES/NO is taken. If vote is async, we expect all members to have produced a vote by a deadline.
 ```
 
@@ -50,12 +50,12 @@ eviction of one person cannot happen with simple majority, it needs to have 4 vo
 collective has multisig authority over the main account (which main account?) (3-of-5, 4-of-5?)
 
 ```{note}
-Brainstorming.
+[Brainstorming]
+I would imagine several types of access:
 
+Access to repo for statutes - SOP repository (access governed by voting majority rules). This would be comparable to a set of laws - legislative output.
 
-Access to repo for statutes - SOP repository (access governed by voting majority rules)
-
-On top of this, what is the main account ? A possible list of critical items?
+On top of this, powers and resources to execute the policies. Would this be the main account ? A possible list of critical items:
 * Access to repo for infra
 * Access to secret keys for 
     * infra & docs & code
@@ -65,6 +65,8 @@ On top of this, what is the main account ? A possible list of critical items?
 => This account would be accessed to implement the decisions from statutes.
 Access to this would require more `privileged` access than statutes repo - or stronger majority (rewriting SOPs is only thing, accessing all resources another).
 Then, one argue access to this account would need to be done by 'executive branch', not necesarilly the same 'legislative body' who vote on statutes.
+
 Is separation of power needed for an org of 5?. Are the same 5 required to multi-sig (unanimity) after statutes/SOP decisions to access critical resources?
+
 I am getting confused. There is maybe existing litterature (governance or co-op)about these topics.
 ``` 
