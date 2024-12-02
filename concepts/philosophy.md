@@ -1,5 +1,9 @@
 # Philosophy
 
+```{note}
+Can probably be reworked so that core principles appear at beginning of manifesto
+```
+
 ## Imagery
 
 <img src="/_static/gaia_tree.svg" alt="gaia_tree" width="50%" />
