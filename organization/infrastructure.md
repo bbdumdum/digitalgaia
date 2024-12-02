@@ -48,7 +48,9 @@ This shares information about what is done, how it is done, and ensures no one i
 We should also redeploy most of our servers regularly to make sure the install/backup scripts include everything -> even better, we should ensure that we are always able to redeploy the entire infrastructure by just having access to the `servers` repo.
 
 ```{note}
-I am Not versed into infra deployment, but I guess the keys and passwords to specific services / dns / cloud instances need to be stored outside the servers repo and shared between collective members. Would it then be enough to have access to server and keys repo to full redeploy?
+I am Not versed into infra deployment, but I guess the keys and passwords to specific services / dns / cloud instances need to be stored outside the servers repo and shared between collective members.
+
+Would it then be enough to have access to server and keys repo to full redeploy?
 ```
 
 
