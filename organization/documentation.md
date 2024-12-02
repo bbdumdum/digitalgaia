@@ -4,6 +4,18 @@ documentation should be easy to edit (wiki-style), versioned (git) and able to o
 
 a near wiki-like experience can be achieved with sphinx doc being built and pushed immediately to prod as a CI actions from github when a commit is pushed. Repo has no named branches other than develop, and represent a continuous line in time.
 
+```{note}
+About maintaining doc pages hierarchy, tags, categories
+
+* Several categories of items (besides what and how) should be added and the hierarchy of categories is not known in advance.
+
+* With time the hierarchy or tags tends to degenerate. When adding new items to the hierarchy I tend to have forgoten the location of previous semantically-related items or the tags I used for then, to the items end up being spread around. Out of my personal experience this happened in a team (company wiki) and in my personal bookmarks repository. 
+
+* Also categories and tags tend to evolve in time. I first filed related context under `neural networks`, the `neural networks->transformer` then `neural networks->transformer->llm`, then `neural networks->transformer->llm->rag`
+
+* Maintaining the knowledge base is key and the responsibility shared accross the team
+```
+
 there should be official documentation for projects, but also wiki-style unstructured general documentation, links to to interesting articles, thoughts for possible different designs or new features, ideas for governance, etc.
 
 ```{note}
@@ -19,18 +31,30 @@ the reason we want to have this is so that people don't have to read the news (t
 one main section (or another KB) could be devoted to tools being used and articles about them. This represents the “how we do things” (craft)
 
 another section could be about motivation / philosophy / beliefs. This represents the “why we do things” (spirit)
-
-the first phase in the DG process (1st year) is here to build our knowledge and to refine our craft
 ```
+
+`following tag compatible with github, probably not with sphinx`
+> [!IMPORTANT]
+> the first phase in the DG process (1st year) is here to build our knowledge and to refine our craft
 
 ```{note}
 Investigate [GNU Hyperbole](https://www.gnu.org/software/hyperbole/)
+
+[The case for continuous documentation](<https://archive.is/RDH4z>)[HN](<https://news.ycombinator.com/item?id=27411574>)
+
+[A continuous documentation platform for dev teams (llm-powered hype or good workflows?)](<https://swimm.io/blog/what-is-continuous-documentation-manifesto-part-1>)
 ```
 
 there is also a handbook for the collective, containing amongst other the digitalgaia manifesto
 
 we could have, say, 1 week / year where we stop all activity and only review, update and fix documentation of all products / internal infrastructure (kind of a spring cleaning week).
+
+
 documentation that is not needed anymore to support the current functioning of the collective should be archived at the end of the year.
+
+```{note}
+I like the idea of deprecating or giving less prominence to old documentation, while allowing to retrieve it when we need to research old documents and processes.
+```
 
 
 ## Possible tools for documentation
@@ -48,6 +72,8 @@ investigate following tools:
 
 converting any doc to a Dash docset: [How I’m a Productive Programmer With a Memory of a Fruit Fly](https://hynek.me/articles/productive-fruit-fly-programmer/) [[HN](https://news.ycombinator.com/item?id=32900164)]
 
+[Markwhen, to input and display stuff with dates (HN)]
+(<https://news.ycombinator.com/item?id=42289690>)
 
 ## How to write good documentation
 
