@@ -33,12 +33,29 @@
 
 - [7 Powers: The Foundations of Business Strategy](https://www.goodreads.com/book/show/32816087-7-powers)
 
+```{note}
+TODO: add other sections. e.g.: co-op management literature
+```
+
 ## Meetings
 
 **biweekly / monthly meetings on readings / interesting articles / potential new projects**
 
 people should talk about 1 (or more) articles, piece of news, or brainstorming idea of
 potential new/fun/interesting projects
+
+```{note}
+
+I like the idea of a journal club. (Cool stuff to check, knowledge sharing)
+
+Another meeting - or at least a public board, related to ongoing project status, coordination rather than decision, possibly shorter. Minimal version: weekly hackedscrum (I did this, I plan to do that, I would need this from another team, I can help with that ... )
+
+And of course, meetings centered about specific decision and votes.
+
+How to avoid meeting creep?
+
+For voice meetings, it would be ideal we can set up infra to transcript and summarize. I like the idea of transparent, searchable and async friendly reuse of voice meetings - so that no one really misses a meeting.
+```
 
 **meetings are audio-only, we don't want webcam**
 
@@ -73,6 +90,18 @@ check Linear's [method](https://linear.app/method) for issue tracking
 
 code review should be a daily task, and we may need to dedicate up to 20% of a day to it. About code review processes and how to make it better/easier: [code review decision fatigue](<https://tylercipriani.com/blog/2022/03/12/code-review-procrastination-and-clarity/>) ([HN](<https://news.ycombinator.com/item?id=30665319>))
 
+```{note}
+I read the attached docs and wandered if they relate to implementing design decisions processes for products (e.g. prioritze features for an app in a dev team) as opposed to set generic SOPs that govern the collective.
+It would be good to introduce to the challenge at hand and introduce -maybe less- links in context
+
+At this stage, I only have an intuition that SOPs and decision tools for day to day can be supported by the same fondations. 
+
+Concerning the decision processs, it is good to start with introducing NABC to commonly decide the various project tasks and subtasks. 
+    * Which granularity? (e.g. programming language of a new project vs choosen implementation for an algorithm in a minimal feature)
+    * common process at all reasonable granularities ?
+
+Now that the concept is understood, how has the concept been implemented and used in teams?
+```
 
 ## Code review
 
